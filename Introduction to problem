@@ -1,0 +1,10 @@
+Introduction
+We will here in this project try to analyze the various cusines of certain cities and figure out which is the best.
+We will try to understand what are the top cuisines of a particular city,
+or which cuisine is most fond in which country.
+
+
+Data
+List of international cuisines will be extracted from - https://developer.foursquare.com/docs/build-with-foursquare/categories/
+The cities that has to be explored can manually be entered
+
